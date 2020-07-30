@@ -1,6 +1,6 @@
 # Setup
-title:               Purak
-tagline:             ''
+title:               ''
+tagline:             why? why? ... what if?
 description:         ''
 url:                 https://purak24.github.io/mywebsite
 baseurl:             ''
@@ -14,8 +14,7 @@ author:
   email:             prkj24@gmail.com
 
 # Gems
-plugins:
-  - jekyll-paginate
+plugins:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jemoji]
 
 # Custom vars
 version:             1.1.0
