@@ -3,17 +3,17 @@ title:               ''
 tagline:             why?
 description:         ''
 url:                 https://purak24.github.io/mywebsite
-baseurl:             ''
+baseurl:             '/mywebsite'
 permalink:           pretty
-paginate:            2
-
-paginate_multiple:
-  - paginate: 3
-    paginate_path: '/page:num/'
-    sub_dir: '/blogs'
-  - paginate: 3
-    paginate_path: '/notes/page:num/'
-    sub_dir: '/notes'
+# paginate:            2
+#
+# paginate_multiple:
+#   - paginate: 3
+#     paginate_path: '/page:num/'
+#     sub_dir: '/blogs'
+#   - paginate: 3
+#     paginate_path: '/notes/page:num/'
+#     sub_dir: '/notes'
 
 
 # About/contact
@@ -23,7 +23,7 @@ author:
   email:             prkj24@gmail.com
 
 # Gems
-plugins:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jemoji, jekyll-paginate-multiple]
+plugins:             [jekyll-seo-tag, jekyll-sitemap, jemoji]
 
 # Custom vars
 version:             1.1.0
