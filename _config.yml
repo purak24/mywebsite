@@ -2,8 +2,8 @@
 title:               ''
 tagline:             why?
 description:         ''
-url:                 https://purak24.github.io
-baseurl:             '/mywebsite'
+url:                 https://purak24.github.io/mywebsite
+baseurl:             ''
 permalink:           pretty
 
 # About/contact
