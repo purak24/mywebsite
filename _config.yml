@@ -2,19 +2,9 @@
 title:               ''
 tagline:             why?
 description:         ''
-url:                 https://purak24.github.io/mywebsite
+url:                 https://purak24.github.io
 baseurl:             '/mywebsite'
 permalink:           pretty
-# paginate:            2
-#
-# paginate_multiple:
-#   - paginate: 3
-#     paginate_path: '/page:num/'
-#     sub_dir: '/blogs'
-#   - paginate: 3
-#     paginate_path: '/notes/page:num/'
-#     sub_dir: '/notes'
-
 
 # About/contact
 author:
