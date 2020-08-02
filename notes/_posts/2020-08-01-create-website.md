@@ -24,7 +24,7 @@ mv lanyon mywebsites
 
 Head over to [GitHub](https://github.com/new) and create a new repository.
 
-![Create New Github Repo](/assets/githubRepo.png)
+![Create New Github Repo]({{site.baseurl}}/assets/githubRepo.png)
 
 ## Step 3: Commit to Github
 
@@ -44,7 +44,7 @@ git push -u origin master
 
 From your github repo, goto settings and enable github pages. Within a few minutes you will have the URL to your website!
 
-![Enable Github Pages](/assets/githubPages.png)
+![Enable Github Pages]({{site.baseurl}}/assets/githubPages.png)
 
 ## Step 5: Use Docker to serve content locally
 
