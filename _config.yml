@@ -1,11 +1,20 @@
 # Setup
 title:               ''
-tagline:             why? why? ... what if?
+tagline:             why?
 description:         ''
 url:                 https://purak24.github.io/mywebsite
 baseurl:             ''
-paginate:            5
 permalink:           pretty
+paginate:            2
+
+paginate_multiple:
+  - paginate: 3
+    paginate_path: '/page:num/'
+    sub_dir: '/blogs'
+  - paginate: 3
+    paginate_path: '/notes/page:num/'
+    sub_dir: '/notes'
+
 
 # About/contact
 author:
@@ -14,7 +23,7 @@ author:
   email:             prkj24@gmail.com
 
 # Gems
-plugins:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jemoji]
+plugins:             [jekyll-paginate, jekyll-seo-tag, jekyll-sitemap, jemoji, jekyll-paginate-multiple]
 
 # Custom vars
 version:             1.1.0

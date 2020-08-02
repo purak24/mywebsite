@@ -1,8 +1,12 @@
 ---
 layout: page
 title: About
+summary: About Me
+navigation_weight: 3
 ---
 
-> *A characteristic feature of the authoritarianism in our society is its insidious ability to addict people to the endless pursuit of external rewards, wealth, prestige, position, promotion, approval of one’s lifestyle by others, ceremonial honours and status symbols of all kinds. To successfully pursue these goals they have to learn elaborate rules of etiquette and familiarise themselves with customs, traditions protocols and so on. The youth of today must unlearn this self-defeating way of life. – APJ Abdul Kalam, Wings of Fire*
+I am Purak and I presently live in Seattle, Washington working as a Software Engineer at Amazon.
+
+If you want to chat you can reach out to me at [Linkedin](https://www.linkedin.com/in/purakjain/) or [Twitter](https://twitter.com/PurakJain) or shoot me an <a href="mailto:prkj24@gmail.com">email</a>.
 
 Thanks for reading!
