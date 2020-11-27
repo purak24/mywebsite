@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Ancient Toltec Wisdom - The Four Agreements
-summary: Book review of the four agreements - a practical Guide to Personal Freedom
+summary: Book summary of the four agreements - a practical Guide to Personal Freedom
 tags: [review, the four agreements, don, don miguel ruiz, toltec, wisdom, self-help, spirituality]
-category: note
+category: blog
 ---
 
 ![Dream of the Planet]({{site.baseurl}}/assets/theFourAgreements.jpeg)
