@@ -4,6 +4,9 @@ layout: default
 
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
+  <p style="font-size: 18px; font-style: italic;">
+    Tagged with: {% for tag in page.tags %}<a href='/tags#{{tag}}'>{{ tag }}</a>{% if forloop.last == false %}, {% endif %}{% endfor %}.
+  </p>
   <span class="post-date">{{ page.date | date_to_string }}</span>
   {{ content }}
 </div>
@@ -13,14 +16,16 @@ layout: default
   <h2>Related posts</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ site.baseurl }}{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
+      {% if post.categories contains 'blog' %}
+        <li>
+          <h3>
+            <a href="{{ site.baseurl }}{{ post.url }}">
+              {{ post.title }}
+              <small>{{ post.date | date_to_string }}</small>
+            </a>
+          </h3>
+        </li>
+      {% endif %}
     {% endfor %}
   </ul>
 </div>

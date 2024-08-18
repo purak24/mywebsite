@@ -2,7 +2,8 @@
 layout: post
 title: Setting up Manim and creating first animation in under 15 minutes
 summary: Walk-through for installing Manim
-tags: [manim,3b1b,dummies,animation,math,blog,website]
+tags:
+  note
 category: note
 ---
 

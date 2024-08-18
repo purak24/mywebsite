@@ -2,12 +2,12 @@
 layout: post
 title: Ancient Toltec Wisdom - The Four Agreements
 summary: Book summary of the four agreements - a practical Guide to Personal Freedom
-tags: [review, the four agreements, don, don miguel ruiz, toltec, wisdom, self-help, spirituality]
+tags:
+  - book
 category: blog
 ---
 
 ![Dream of the Planet]({{site.baseurl}}/assets/theFourAgreements.jpeg)
-
 Don Miguel Ruiz's, <a target="_blank" href="https://www.amazon.com/gp/product/1878424319/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1878424319&linkCode=as2&tag=purak24-20&linkId=c98e18f38979b53fb2c07695f3b9bebe">The Four Agreements</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=purak24-20&l=am2&o=1&a=1878424319" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> claims to reveal insights possessed by the Toltecs - who ruled central Mexico, a thousand years ago. Ruiz says that humans are an autodomesticated animal. Children have no free will in developing their own belief systems, instead they become a copy of their Mamma's beliefs, Daddy's beliefs, society's beliefs, and religion's beliefs. They are so well trained that after a certain point in life we no longer need anyone to domesticate us - we are our own domesticator. Our belief system then becomes like a book of Law where we have all our agreements and these agreements rule our dream.
 
 We have our own inner judge who uses our book of Law to judge everything we do and don't do and we forever live under the tyranny of this judge. Anything we do against our book of law causes us fear and therefore we never challenge our beliefs - those beliefs that we didn't even choose in the first place!
