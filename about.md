@@ -13,7 +13,7 @@ If you would like to chat or follow my work, you can connect with me on the foll
     <a href="https://www.linkedin.com/in/purakjain/" target="_blank" style="text-decoration: none; margin-right: 15px;">
         <i class="fab fa-linkedin fa-2x"></i>
     </a>
-    <a href="https://www.amazon.science/" target="_blank" style="text-decoration: none; margin-right: 15px;">
+    <a href="https://www.amazon.science/author/purak-jain" target="_blank" style="text-decoration: none; margin-right: 15px;">
         <i class="fab fa-amazon fa-2x"></i>
     </a>
     <a href="https://scholar.google.com/citations?user=Uz_5hUsAAAAJ" target="_blank" style="text-decoration: none; margin-right: 15px;">
