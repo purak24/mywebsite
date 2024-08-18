@@ -2,8 +2,6 @@
 layout: post
 title: Building a personal blogging site using Jekyll in under 15 minutes
 summary: Walk-through for creating this website using a Jekyll theme - Lanyon and hosted on Github pages, using Markdown and Docker for local hosting.
-tags:
-  note
 category: note
 ---
 

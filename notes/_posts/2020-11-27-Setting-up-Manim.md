@@ -2,8 +2,6 @@
 layout: post
 title: Setting up Manim and creating first animation in under 15 minutes
 summary: Walk-through for installing Manim
-tags:
-  note
 category: note
 ---
 
