@@ -556,3 +556,30 @@ a.pagination-item:hover {
 .layout-reverse.sidebar-overlay #sidebar-checkbox:checked ~ .sidebar {
   box-shadow: -.25rem 0 .5rem rgba(0,0,0,.1);
 }
+
+/*
+ Tags
+*/
+
+.tags-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px; /* Space between tags */
+  margin-bottom: 16px; /* Space between tag buttons and the date below */
+}
+
+.tag-button {
+  display: inline-block;
+  padding: 3px 6px; /* Smaller padding */
+  background-color: #e0f7fa; /* Light blue background */
+  border: 1px solid #b2ebf2; /* Slightly darker border */
+  border-radius: 4px; /* Slightly rounded corners */
+  color: #0277bd; /* Text color, blue like a hyperlink */
+  text-decoration: none; /* Remove underline */
+  font-size: 14px; /* Smaller font size */
+  font-style: italic;
+}
+
+.tag-button:hover {
+  background-color: #b2ebf2; /* Even lighter blue on hover */
+}

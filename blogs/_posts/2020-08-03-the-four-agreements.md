@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Ancient Toltec Wisdom - The Four Agreements
+title: "Ancient Toltec Wisdom: The Four Agreements"
 summary: Book summary of the four agreements - a practical Guide to Personal Freedom
 tags:
-  - book
+  - productivity
 category: blog
 ---
 
