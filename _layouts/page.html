@@ -3,8 +3,11 @@ layout: default
 ---
 
 <div class="page">
-  {% if page.title != "Notes" %}
-    <h1 class="page-title">{{ page.title }}</h1>
-  {% endif %}
+  {% assign sorted_tags = site.tags | sort %}
+  <div class="tags-container">
+    {% for tag in sorted_tags %}
+      <a href='/tags#{{ tag | first | downcase | replace: " ", "-" }}' class="tag-button">#{{ tag | first }}</a>
+    {% endfor %}
+  </div>
   {{ content }}
 </div>

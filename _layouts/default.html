@@ -13,8 +13,19 @@
       <div class="masthead">
         <div class="container">
           <h3 class="masthead-title">
-            <a href="{{ site.baseurl }}/" title="Blog">purakjain</a>
-            <small>{{ site.tagline }}</small>
+            <a href="{{ site.baseurl }}/" title="Home"><img src="{{ '/public/favicon.ico' | absolute_url }}" alt="Favicon" class="favicon-icon">purakjain</a>
+            <small>
+                <!-- Add the navigation here -->
+                  {% assign pages_list = site.pages | sort:'navigation_weight' %}
+                  {% for node in pages_list %}
+                    {% if node.title != null %}
+                      {% if node.layout == "page" %}
+                        <a class="top-nav-item" href="{{ node.url | absolute_url }}">{{ node.title }}</a>
+                      {% endif %}
+                    {% endif %}
+                  {% endfor %}
+                 <a class="top-nav-item" href="{{ '/about'| absolute_url }}">About</a>
+            </small>
           </h3>
         </div>
       </div>
