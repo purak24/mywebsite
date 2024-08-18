@@ -5,5 +5,5 @@ permalink: .well-known/brave-payments-verification.txt
 
 This is a Brave Rewards publisher verification file.
 
-Domain: purak.me
+Domain: purakjain.com
 Token: 365b23becab9699f19474e5b94d468dcb167dbf92738ed3e42c643991ecd4f23
