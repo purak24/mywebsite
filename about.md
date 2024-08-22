@@ -19,7 +19,7 @@ If you would like to chat or follow my work, you can connect with me on the foll
     <a href="https://scholar.google.com/citations?user=Uz_5hUsAAAAJ" target="_blank" style="text-decoration: none; margin-right: 15px;">
         <i class="fas fa-graduation-cap fa-2x"></i>
     </a>
-    <a href="https://twitter.com/PurakJain" target="_blank" style="text-decoration: none;">
+    <a href="https://x.com/PurakJain" target="_blank" style="text-decoration: none;">
         <i class="fab fa-twitter fa-2x"></i>
     </a>
     <a href="https://www.youtube.com/@paperswithvideo" target="_blank" style="text-decoration: none; margin-right: 15px;">
