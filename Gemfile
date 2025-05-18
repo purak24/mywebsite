@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-# ruby version relaxed so GitHub Actions can run with 3.0.1+
-ruby '>= 3.0.0'
+# to support both local and GitHub Actions versions
+ruby '>= 3.1', '< 3.4'
 
 gem 'github-pages', '~> 232', group: :jekyll_plugins
